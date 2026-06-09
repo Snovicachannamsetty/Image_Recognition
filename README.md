@@ -176,8 +176,7 @@ This project is open-source and available for educational and learning purposes.
 
 ### Snovica Channamsetty
 
-AI & Machine Learning Enthusiast  
-Data Science Learner  
+AI & Machine Learning Enthusiast    
 B.Tech Student
 
 ---
