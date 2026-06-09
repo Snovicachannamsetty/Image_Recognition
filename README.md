@@ -172,13 +172,6 @@ This project is open-source and available for educational and learning purposes.
 
 ---
 
-## 👨‍💻 Author
-
-### Snovica Channamsetty
-
-AI & Machine Learning Enthusiast    
-B.Tech Student
-
 ---
 
 ⭐ If you found this project useful, consider giving it a star on GitHub!
